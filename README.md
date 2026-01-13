@@ -24,4 +24,4 @@ Maps domains to icon keys (filenames without extension). This allows multiple do
 
 ### `config/presets.json`
 
-Defines the default shortcuts for new users. `iconKey` should match an entry in `mapping.json` or a filename in `icons/`. If `iconKey` is null, the application should fallback to the website's favicon. Each entry also supports a `category` field for organization (e.g., "Entertainment", "Development").
+Defines the default shortcuts for new users. `iconKey` should match an entry in `mapping.json` or a filename in `icons/`. If `iconKey` is null, the application should fallback to the website's favicon. Each entry also supports a `category` field for organization (e.g., "Entertainment", "Development") and a `description` field for extra context.

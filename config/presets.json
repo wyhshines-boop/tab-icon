@@ -14,5 +14,29 @@
         "iconKey": "github",
         "category": "Development",
         "description": "全球最大的开源代码托管平台"
+    },
+    {
+        "id": "3",
+        "title": "ChatGPT",
+        "url": "https://chatgpt.com",
+        "iconKey": "chatgpt",
+        "category": "Productivity",
+        "description": "OpenAI 开发的强大语言模型"
+    },
+    {
+        "id": "4",
+        "title": "Gemini",
+        "url": "https://gemini.google.com",
+        "iconKey": "gemini",
+        "category": "Productivity",
+        "description": "Google 最强大多模态 AI 模型"
+    },
+    {
+        "id": "5",
+        "title": "X",
+        "url": "https://x.com",
+        "iconKey": "X",
+        "category": "Social Media",
+        "description": "前身为 Twitter 的社交媒体平台"
     }
 ]

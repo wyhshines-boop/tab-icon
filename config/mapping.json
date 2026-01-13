@@ -1,6 +1,10 @@
 {
-    "bilibili.com": "bilibili",
     "www.bilibili.com": "bilibili",
     "zhihu.com": "zhihu",
-    "github.com": "github"
+    "github.com": "github",
+    "x.com": "X",
+    "twitter.com": "X",
+    "chatgpt.com": "chatgpt",
+    "ai.com": "chatgpt",
+    "gemini.google.com": "gemini"
 }

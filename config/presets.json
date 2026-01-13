@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "哔哩哔哩",
+        "url": "https://www.bilibili.com",
+        "iconKey": "bilibili"
+    },
+    {
+        "id": "2",
+        "title": "GitHub",
+        "url": "https://github.com",
+        "iconKey": "github"
+    },
+    {
+        "id": "3",
+        "title": "我的博客",
+        "url": "https://blog.example.com",
+        "iconKey": null
+    }
+]

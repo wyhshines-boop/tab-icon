@@ -9,11 +9,11 @@
     },
     {
         "id": "2",
-        "title": "GitHub",
-        "url": "https://github.com",
-        "iconKey": "github",
-        "category": "Development",
-        "description": "全球最大的开源代码托管平台"
+        "title": "知乎",
+        "url": "https://www.zhihu.com",
+        "iconKey": "zhihu",
+        "category": "Community",
+        "description": "高频使用的中文问答与内容社区"
     },
     {
         "id": "3",
@@ -38,5 +38,301 @@
         "iconKey": "X",
         "category": "Social Media",
         "description": "前身为 Twitter 的社交媒体平台"
+    },
+    {
+        "id": "6",
+        "title": "Google",
+        "url": "https://www.google.com",
+        "iconKey": "google",
+        "category": "Search",
+        "description": "全球最常用的搜索引擎"
+    },
+    {
+        "id": "7",
+        "title": "YouTube",
+        "url": "https://www.youtube.com",
+        "iconKey": "youtube",
+        "category": "Entertainment",
+        "description": "全球最大的视频分享平台"
+    },
+    {
+        "id": "8",
+        "title": "Gmail",
+        "url": "https://mail.google.com",
+        "iconKey": "gmail",
+        "category": "Productivity",
+        "description": "Google 提供的电子邮件服务"
+    },
+    {
+        "id": "9",
+        "title": "Notion",
+        "url": "https://www.notion.so",
+        "iconKey": "notion",
+        "category": "Productivity",
+        "description": "流行的笔记与协作工具"
+    },
+    {
+        "id": "10",
+        "title": "Figma",
+        "url": "https://www.figma.com/files",
+        "iconKey": "figma",
+        "category": "Design",
+        "description": "常用的在线界面设计与协作平台"
+    },
+    {
+        "id": "11",
+        "title": "Google Drive",
+        "url": "https://drive.google.com",
+        "iconKey": "google-drive",
+        "category": "Productivity",
+        "description": "常用的云端文件存储与协作服务"
+    },
+    {
+        "id": "12",
+        "title": "Discord",
+        "url": "https://discord.com/app",
+        "iconKey": "Discord",
+        "category": "Communication",
+        "description": "常用的社区交流与语音平台"
+    },
+    {
+        "id": "13",
+        "title": "Spotify",
+        "url": "https://open.spotify.com",
+        "iconKey": "Spotify",
+        "category": "Entertainment",
+        "description": "主流的在线音乐流媒体平台"
+    },
+    {
+        "id": "14",
+        "title": "Google Maps",
+        "url": "https://maps.google.com",
+        "iconKey": "google-maps",
+        "category": "Tools",
+        "description": "常用的地图、路线和地点查询服务"
+    },
+    {
+        "id": "15",
+        "title": "Reddit",
+        "url": "https://www.reddit.com",
+        "iconKey": "reddit",
+        "category": "Community",
+        "description": "热门的兴趣社区与讨论平台"
+    },
+    {
+        "id": "16",
+        "title": "Squoosh",
+        "url": "https://squoosh.app/",
+        "iconKey": "squoosh",
+        "category": "Tools",
+        "description": "免费好用的在线图片压缩与格式转换工具"
+    },
+    {
+        "id": "17",
+        "title": "iLovePDF",
+        "url": "https://www.ilovepdf.com/",
+        "iconKey": "ilovepdf",
+        "category": "Tools",
+        "description": "常用的在线 PDF 合并、拆分和转换工具"
+    },
+    {
+        "id": "18",
+        "title": "Smallpdf",
+        "url": "https://smallpdf.com/",
+        "iconKey": "smallpdf",
+        "category": "Tools",
+        "description": "覆盖压缩、编辑和转换的 PDF 工具箱"
+    },
+    {
+        "id": "19",
+        "title": "CloudConvert",
+        "url": "https://cloudconvert.com/",
+        "iconKey": "cloudconvert",
+        "category": "Tools",
+        "description": "支持多种文档、音视频和图片格式转换"
+    },
+    {
+        "id": "20",
+        "title": "Convertio",
+        "url": "https://convertio.co/",
+        "iconKey": "convertio",
+        "category": "Tools",
+        "description": "常见文件格式之间的在线转换工具"
+    },
+    {
+        "id": "21",
+        "title": "remove.bg",
+        "url": "https://www.remove.bg/",
+        "iconKey": null,
+        "category": "Tools",
+        "description": "一键抠图去背景的在线工具"
+    },
+    {
+        "id": "22",
+        "title": "TinyPNG",
+        "url": "https://tinypng.com/",
+        "iconKey": "tinypng",
+        "category": "Tools",
+        "description": "高频使用的 PNG 和 JPEG 图片压缩工具"
+    },
+    {
+        "id": "23",
+        "title": "Photopea",
+        "url": "https://www.photopea.com/",
+        "iconKey": "photopea",
+        "category": "Design",
+        "description": "功能强大的在线图片编辑器"
+    },
+    {
+        "id": "24",
+        "title": "Excalidraw",
+        "url": "https://excalidraw.com/",
+        "iconKey": "excalidraw",
+        "category": "Productivity",
+        "description": "适合快速画草图和流程图的白板工具"
+    },
+    {
+        "id": "25",
+        "title": "Canva",
+        "url": "https://www.canva.com/",
+        "iconKey": "canva",
+        "category": "Design",
+        "description": "常用的在线海报和社媒设计平台"
+    },
+    {
+        "id": "26",
+        "title": "WeTransfer",
+        "url": "https://wetransfer.com/",
+        "iconKey": "wetransfer",
+        "category": "Tools",
+        "description": "用于临时分享大文件的在线服务"
+    },
+    {
+        "id": "27",
+        "title": "Pixeldrain",
+        "url": "https://pixeldrain.com/",
+        "iconKey": null,
+        "category": "Tools",
+        "description": "简洁的大文件上传与分享工具"
+    },
+    {
+        "id": "28",
+        "title": "Temp Mail",
+        "url": "https://temp-mail.org/",
+        "iconKey": null,
+        "category": "Tools",
+        "description": "注册测试场景常用的临时邮箱服务"
+    },
+    {
+        "id": "29",
+        "title": "在线音频转换",
+        "url": "https://audio-convert.com/",
+        "iconKey": "在线音频转换",
+        "category": "Tools",
+        "description": "常见音频格式互转的在线工具"
+    },
+    {
+        "id": "30",
+        "title": "PDF24 Tools",
+        "url": "https://tools.pdf24.org/",
+        "iconKey": null,
+        "category": "Tools",
+        "description": "免费且功能很全的 PDF 在线工具集"
+    },
+    {
+        "id": "31",
+        "title": "123Apps 视频剪辑",
+        "url": "https://online-video-cutter.com/",
+        "iconKey": null,
+        "category": "Tools",
+        "description": "在线视频裁剪、压缩与基础编辑工具"
+    },
+    {
+        "id": "32",
+        "title": "Clipdrop",
+        "url": "https://clipdrop.co/",
+        "iconKey": "clipdrop",
+        "category": "Tools",
+        "description": "提供抠图、清晰化和图片处理的 AI 工具"
+    },
+    {
+        "id": "33",
+        "title": "DocHub",
+        "url": "https://www.dochub.com/",
+        "iconKey": null,
+        "category": "Tools",
+        "description": "在线填写、签名和编辑 PDF 文档"
+    },
+    {
+        "id": "34",
+        "title": "Canva Docs",
+        "url": "https://www.canva.com/docs/",
+        "iconKey": "canva-docs",
+        "category": "Productivity",
+        "description": "适合轻量文档整理和视觉化排版"
+    },
+    {
+        "id": "35",
+        "title": "Color Hunt",
+        "url": "https://colorhunt.co/",
+        "iconKey": null,
+        "category": "Design",
+        "description": "快速查找配色方案的灵感网站"
+    },
+    {
+        "id": "36",
+        "title": "Coolors",
+        "url": "https://coolors.co/",
+        "iconKey": "coolors",
+        "category": "Design",
+        "description": "常用的在线配色生成器"
+    },
+    {
+        "id": "37",
+        "title": "Claude",
+        "url": "https://claude.ai",
+        "iconKey": "claude",
+        "category": "Productivity",
+        "description": "Anthropic 推出的通用 AI 助手"
+    },
+    {
+        "id": "38",
+        "title": "Perplexity",
+        "url": "https://www.perplexity.ai",
+        "iconKey": "perplexity",
+        "category": "Search",
+        "description": "高频使用的 AI 搜索与问答工具"
+    },
+    {
+        "id": "39",
+        "title": "Midjourney",
+        "url": "https://www.midjourney.com",
+        "iconKey": null,
+        "category": "Design",
+        "description": "知名的 AI 图像生成平台"
+    },
+    {
+        "id": "40",
+        "title": "Kimi",
+        "url": "https://www.kimi.com",
+        "iconKey": "kimi",
+        "category": "Productivity",
+        "description": "支持长文本处理的中文 AI 助手"
+    },
+    {
+        "id": "41",
+        "title": "豆包",
+        "url": "https://www.doubao.com",
+        "iconKey": "豆包",
+        "category": "Productivity",
+        "description": "字节推出的通用 AI 助手"
+    },
+    {
+        "id": "42",
+        "title": "Poe",
+        "url": "https://poe.com",
+        "iconKey": "poe",
+        "category": "Productivity",
+        "description": "聚合多种模型的 AI 对话平台"
     }
 ]

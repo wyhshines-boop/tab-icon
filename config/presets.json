@@ -36,19 +36,11 @@
         "title": "X",
         "url": "https://x.com",
         "iconKey": "X",
-        "category": "Social Media",
+        "category": "Community",
         "description": "前身为 Twitter 的社交媒体平台"
     },
     {
         "id": "6",
-        "title": "Google",
-        "url": "https://www.google.com",
-        "iconKey": "google",
-        "category": "Productivity",
-        "description": "全球最常用的搜索引擎"
-    },
-    {
-        "id": "7",
         "title": "YouTube",
         "url": "https://www.youtube.com",
         "iconKey": "youtube",
@@ -56,7 +48,7 @@
         "description": "全球最大的视频分享平台"
     },
     {
-        "id": "8",
+        "id": "7",
         "title": "Gmail",
         "url": "https://mail.google.com",
         "iconKey": "gmail",
@@ -64,7 +56,7 @@
         "description": "Google 提供的电子邮件服务"
     },
     {
-        "id": "9",
+        "id": "8",
         "title": "Notion",
         "url": "https://www.notion.so",
         "iconKey": "notion",
@@ -72,7 +64,7 @@
         "description": "流行的笔记与协作工具"
     },
     {
-        "id": "10",
+        "id": "9",
         "title": "Figma",
         "url": "https://www.figma.com/files",
         "iconKey": "figma",
@@ -80,7 +72,7 @@
         "description": "常用的在线界面设计与协作平台"
     },
     {
-        "id": "11",
+        "id": "10",
         "title": "Google Drive",
         "url": "https://drive.google.com",
         "iconKey": "google-drive",
@@ -88,15 +80,7 @@
         "description": "常用的云端文件存储与协作服务"
     },
     {
-        "id": "12",
-        "title": "Discord",
-        "url": "https://discord.com/app",
-        "iconKey": "Discord",
-        "category": "Social Media",
-        "description": "常用的社区交流与语音平台"
-    },
-    {
-        "id": "13",
+        "id": "11",
         "title": "Spotify",
         "url": "https://open.spotify.com",
         "iconKey": "Spotify",
@@ -104,7 +88,7 @@
         "description": "主流的在线音乐流媒体平台"
     },
     {
-        "id": "14",
+        "id": "12",
         "title": "Google Maps",
         "url": "https://maps.google.com",
         "iconKey": "google-maps",
@@ -112,7 +96,7 @@
         "description": "常用的地图、路线和地点查询服务"
     },
     {
-        "id": "15",
+        "id": "13",
         "title": "Reddit",
         "url": "https://www.reddit.com",
         "iconKey": "reddit",
@@ -120,7 +104,7 @@
         "description": "热门的兴趣社区与讨论平台"
     },
     {
-        "id": "16",
+        "id": "14",
         "title": "Squoosh",
         "url": "https://squoosh.app/",
         "iconKey": "squoosh",
@@ -128,7 +112,7 @@
         "description": "免费好用的在线图片压缩与格式转换工具"
     },
     {
-        "id": "17",
+        "id": "15",
         "title": "iLovePDF",
         "url": "https://www.ilovepdf.com/",
         "iconKey": "ilovepdf",
@@ -136,7 +120,7 @@
         "description": "常用的在线 PDF 合并、拆分和转换工具"
     },
     {
-        "id": "18",
+        "id": "16",
         "title": "Smallpdf",
         "url": "https://smallpdf.com/",
         "iconKey": "smallpdf",
@@ -144,7 +128,7 @@
         "description": "覆盖压缩、编辑和转换的 PDF 工具箱"
     },
     {
-        "id": "19",
+        "id": "17",
         "title": "CloudConvert",
         "url": "https://cloudconvert.com/",
         "iconKey": "cloudconvert",
@@ -152,7 +136,7 @@
         "description": "支持多种文档、音视频和图片格式转换"
     },
     {
-        "id": "20",
+        "id": "18",
         "title": "Convertio",
         "url": "https://convertio.co/",
         "iconKey": "convertio",
@@ -160,7 +144,7 @@
         "description": "常见文件格式之间的在线转换工具"
     },
     {
-        "id": "21",
+        "id": "19",
         "title": "remove.bg",
         "url": "https://www.remove.bg/",
         "iconKey": null,
@@ -168,7 +152,7 @@
         "description": "一键抠图去背景的在线工具"
     },
     {
-        "id": "22",
+        "id": "20",
         "title": "TinyPNG",
         "url": "https://tinypng.com/",
         "iconKey": "tinypng",
@@ -176,7 +160,7 @@
         "description": "高频使用的 PNG 和 JPEG 图片压缩工具"
     },
     {
-        "id": "23",
+        "id": "21",
         "title": "Photopea",
         "url": "https://www.photopea.com/",
         "iconKey": "photopea",
@@ -184,7 +168,7 @@
         "description": "功能强大的在线图片编辑器"
     },
     {
-        "id": "24",
+        "id": "22",
         "title": "Excalidraw",
         "url": "https://excalidraw.com/",
         "iconKey": "excalidraw",
@@ -192,7 +176,7 @@
         "description": "适合快速画草图和流程图的白板工具"
     },
     {
-        "id": "25",
+        "id": "23",
         "title": "Canva",
         "url": "https://www.canva.com/",
         "iconKey": "canva",
@@ -200,7 +184,7 @@
         "description": "常用的在线海报和社媒设计平台"
     },
     {
-        "id": "26",
+        "id": "24",
         "title": "WeTransfer",
         "url": "https://wetransfer.com/",
         "iconKey": "wetransfer",
@@ -208,7 +192,7 @@
         "description": "用于临时分享大文件的在线服务"
     },
     {
-        "id": "27",
+        "id": "25",
         "title": "Pixeldrain",
         "url": "https://pixeldrain.com/",
         "iconKey": null,
@@ -216,7 +200,7 @@
         "description": "简洁的大文件上传与分享工具"
     },
     {
-        "id": "28",
+        "id": "26",
         "title": "Temp Mail",
         "url": "https://temp-mail.org/",
         "iconKey": null,
@@ -224,7 +208,7 @@
         "description": "注册测试场景常用的临时邮箱服务"
     },
     {
-        "id": "29",
+        "id": "27",
         "title": "在线音频转换",
         "url": "https://audio-convert.com/",
         "iconKey": "在线音频转换",
@@ -232,7 +216,7 @@
         "description": "常见音频格式互转的在线工具"
     },
     {
-        "id": "30",
+        "id": "28",
         "title": "PDF24 Tools",
         "url": "https://tools.pdf24.org/",
         "iconKey": null,
@@ -240,7 +224,7 @@
         "description": "免费且功能很全的 PDF 在线工具集"
     },
     {
-        "id": "31",
+        "id": "29",
         "title": "123Apps 视频剪辑",
         "url": "https://online-video-cutter.com/",
         "iconKey": null,
@@ -248,7 +232,7 @@
         "description": "在线视频裁剪、压缩与基础编辑工具"
     },
     {
-        "id": "32",
+        "id": "30",
         "title": "Clipdrop",
         "url": "https://clipdrop.co/",
         "iconKey": "clipdrop",
@@ -256,7 +240,7 @@
         "description": "提供抠图、清晰化和图片处理的 AI 工具"
     },
     {
-        "id": "33",
+        "id": "31",
         "title": "DocHub",
         "url": "https://www.dochub.com/",
         "iconKey": null,
@@ -264,7 +248,7 @@
         "description": "在线填写、签名和编辑 PDF 文档"
     },
     {
-        "id": "34",
+        "id": "32",
         "title": "Canva Docs",
         "url": "https://www.canva.com/docs/",
         "iconKey": "canva-docs",
@@ -272,7 +256,7 @@
         "description": "适合轻量文档整理和视觉化排版"
     },
     {
-        "id": "35",
+        "id": "33",
         "title": "Color Hunt",
         "url": "https://colorhunt.co/",
         "iconKey": null,
@@ -280,7 +264,7 @@
         "description": "快速查找配色方案的灵感网站"
     },
     {
-        "id": "36",
+        "id": "34",
         "title": "Coolors",
         "url": "https://coolors.co/",
         "iconKey": "coolors",
@@ -288,7 +272,7 @@
         "description": "常用的在线配色生成器"
     },
     {
-        "id": "37",
+        "id": "35",
         "title": "Claude",
         "url": "https://claude.ai",
         "iconKey": "claude",
@@ -296,7 +280,7 @@
         "description": "Anthropic 推出的通用 AI 助手"
     },
     {
-        "id": "38",
+        "id": "36",
         "title": "Perplexity",
         "url": "https://www.perplexity.ai",
         "iconKey": "perplexity",
@@ -304,7 +288,7 @@
         "description": "高频使用的 AI 搜索与问答工具"
     },
     {
-        "id": "39",
+        "id": "37",
         "title": "Midjourney",
         "url": "https://www.midjourney.com",
         "iconKey": null,
@@ -312,7 +296,7 @@
         "description": "知名的 AI 图像生成平台"
     },
     {
-        "id": "40",
+        "id": "38",
         "title": "Kimi",
         "url": "https://www.kimi.com",
         "iconKey": "kimi",
@@ -320,7 +304,7 @@
         "description": "支持长文本处理的中文 AI 助手"
     },
     {
-        "id": "41",
+        "id": "39",
         "title": "豆包",
         "url": "https://www.doubao.com",
         "iconKey": "豆包",
@@ -328,39 +312,7 @@
         "description": "字节推出的通用 AI 助手"
     },
     {
-        "id": "42",
-        "title": "Poe",
-        "url": "https://poe.com",
-        "iconKey": "poe",
-        "category": "Productivity",
-        "description": "聚合多种模型的 AI 对话平台"
-    },
-    {
-        "id": "43",
-        "title": "Instagram",
-        "url": "https://www.instagram.com",
-        "iconKey": null,
-        "category": "Social Media",
-        "description": "高频使用的图片与短视频社交平台"
-    },
-    {
-        "id": "44",
-        "title": "微博",
-        "url": "https://weibo.com",
-        "iconKey": null,
-        "category": "Social Media",
-        "description": "热门的中文社交媒体与热点平台"
-    },
-    {
-        "id": "45",
-        "title": "小红书",
-        "url": "https://www.xiaohongshu.com",
-        "iconKey": null,
-        "category": "Social Media",
-        "description": "常用的生活方式分享与社交社区"
-    },
-    {
-        "id": "46",
+        "id": "40",
         "title": "抖音",
         "url": "https://www.douyin.com",
         "iconKey": null,
@@ -368,7 +320,7 @@
         "description": "热门的短视频娱乐平台"
     },
     {
-        "id": "47",
+        "id": "41",
         "title": "Netflix",
         "url": "https://www.netflix.com",
         "iconKey": null,
@@ -376,7 +328,7 @@
         "description": "主流的影视流媒体平台"
     },
     {
-        "id": "48",
+        "id": "42",
         "title": "网易云音乐",
         "url": "https://music.163.com",
         "iconKey": null,

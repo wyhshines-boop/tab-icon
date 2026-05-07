@@ -5,7 +5,8 @@
         "url": "https://chatgpt.com",
         "iconKey": "chatgpt",
         "category": "Productivity",
-        "description": "OpenAI 开发的强大语言模型"
+        "description": "OpenAI 开发的强大语言模型",
+        "defaultInDock": true
     },
     {
         "id": "2",
@@ -13,7 +14,8 @@
         "url": "https://gemini.google.com",
         "iconKey": "gemini",
         "category": "Productivity",
-        "description": "Google 最强大多模态 AI 模型"
+        "description": "Google 最强大多模态 AI 模型",
+        "defaultInDock": true
     },
     {
         "id": "3",
@@ -21,7 +23,8 @@
         "url": "https://mail.google.com",
         "iconKey": "gmail",
         "category": "Productivity",
-        "description": "Google 提供的电子邮件服务"
+        "description": "Google 提供的电子邮件服务",
+        "defaultInDock": true
     },
     {
         "id": "4",
@@ -29,7 +32,8 @@
         "url": "https://www.notion.so",
         "iconKey": "notion",
         "category": "Productivity",
-        "description": "流行的笔记与协作工具"
+        "description": "流行的笔记与协作工具",
+        "defaultInDock": true
     },
     {
         "id": "5",
@@ -93,7 +97,8 @@
         "url": "https://www.bilibili.com",
         "iconKey": "bilibili",
         "category": "Entertainment",
-        "description": "国内知名的视频弹幕网站"
+        "description": "国内知名的视频弹幕网站",
+        "defaultInDock": true
     },
     {
         "id": "13",
@@ -101,7 +106,8 @@
         "url": "https://www.youtube.com",
         "iconKey": "youtube",
         "category": "Entertainment",
-        "description": "全球最大的视频分享平台"
+        "description": "全球最大的视频分享平台",
+        "defaultInDock": true
     },
     {
         "id": "14",
@@ -109,7 +115,8 @@
         "url": "https://open.spotify.com",
         "iconKey": "Spotify",
         "category": "Entertainment",
-        "description": "主流的在线音乐流媒体平台"
+        "description": "主流的在线音乐流媒体平台",
+        "defaultInDock": true
     },
     {
         "id": "15",
@@ -157,7 +164,8 @@
         "url": "https://x.com",
         "iconKey": "X",
         "category": "Community",
-        "description": "前身为 Twitter 的社交媒体平台"
+        "description": "前身为 Twitter 的社交媒体平台",
+        "defaultInDock": true
     },
     {
         "id": "21",

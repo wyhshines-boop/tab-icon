@@ -24,4 +24,4 @@ Maps domains to icon keys (filenames without extension). This allows multiple do
 
 ### `config/presets.json`
 
-Defines the default shortcuts for new users. `iconKey` should match an entry in `mapping.json` or a filename in `icons/`. If `iconKey` is null, the application should fallback to the website's favicon. Each entry also supports a `category` field for organization (e.g., "Entertainment", "Development") and a `description` field for extra context.
+Defines the default shortcuts for new users. `iconKey` should match an entry in `mapping.json` or a filename in `icons/`. If `iconKey` is null, the application should fallback to the website's favicon. Each entry also supports a `category` field for organization (e.g., "Entertainment", "Development"), a `description` field for extra context, and an optional `defaultInDock` boolean field to indicate that the shortcut should be added to the dock by default.
